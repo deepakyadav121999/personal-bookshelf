@@ -1,3 +1,6 @@
+vercel Hosted Link : https://personal-bookshelf-sigma.vercel.app/  
+
+Copy the repository and open terminal and just type npm i   it automatically install all the needed dependency and after installing you can just  type npm start to run 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
